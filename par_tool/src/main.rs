@@ -1,3 +1,6 @@
+// -------------------------------------------------------
+// © Kaplas. Licensed under MIT. See LICENSE for details.
+// -------------------------------------------------------
 use anyhow::{Result, Context};
 use clap::{Parser, Subcommand};
 use par_lib::parc::{self, reader, writer, ParArchive, ParNode};

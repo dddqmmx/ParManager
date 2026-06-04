@@ -1,3 +1,6 @@
+// -------------------------------------------------------
+// © Kaplas. Licensed under MIT. See LICENSE for details.
+// -------------------------------------------------------
 pub mod reader;
 pub mod writer;
 

@@ -2,6 +2,8 @@
 name = "par_tool"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kaplas80"]
+license = "MIT"
 
 [dependencies]
 par_lib = { path = "../par_lib" }

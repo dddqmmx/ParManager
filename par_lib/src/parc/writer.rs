@@ -1,3 +1,6 @@
+// -------------------------------------------------------
+// © Kaplas. Licensed under MIT. See LICENSE for details.
+// -------------------------------------------------------
 use crate::parc::{ParArchive, ParDirectory, ParFile, ParNode};
 use crate::sllz;
 use anyhow::Result;

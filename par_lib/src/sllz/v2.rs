@@ -1,3 +1,6 @@
+// -------------------------------------------------------
+// © Kaplas. Licensed under MIT. See LICENSE for details.
+// -------------------------------------------------------
 use anyhow::{Result, bail};
 use flate2::read::ZlibDecoder;
 use flate2::write::ZlibEncoder;

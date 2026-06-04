@@ -1,3 +1,6 @@
+// -------------------------------------------------------
+// © Kaplas. Licensed under MIT. See LICENSE for details.
+// -------------------------------------------------------
 use anyhow::{Result, bail};
 
 const MAX_WINDOW_SIZE: usize = 4096;

@@ -1,3 +1,6 @@
+// -------------------------------------------------------
+// © Kaplas. Licensed under MIT. See LICENSE for details.
+// -------------------------------------------------------
 use par_lib::parc::{reader, writer, ParArchive, ParDirectory, ParFile, ParNode};
 use std::fs;
 
