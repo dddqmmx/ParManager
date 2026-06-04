@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "par_lib",
+    "par_tool",
+]
+resolver = "2"
